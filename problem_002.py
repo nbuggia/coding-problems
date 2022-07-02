@@ -10,7 +10,7 @@
 # 
 # Follow-up: what if you can't use division?
 
-input = [3, 2, 1]
+input = [1, 2, 3, 4, 5]
 output = list()
 
 print(f"Inputs: \n\tinput: {input}\n\t")
